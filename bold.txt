@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 alterntive approach
+=======
+ty1
+>>>>>>> dev
